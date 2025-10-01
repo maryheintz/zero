@@ -33,8 +33,3 @@
 # Ignore master key for decrypting credentials and more.
 /config/master.key
 
-# Mary's additions (may change over time)
-config/database.yml
-config/environments/production.rb
-config/environments/development.rb
-
