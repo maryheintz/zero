@@ -37,3 +37,6 @@ maryh@deb:~/Documents/ruby/zero$ rails g scaffold post title:string comment:text
       create      app/views/posts/show.json.jbuilder
       create      app/views/posts/_post.json.jbuilder
 ```
+***Practice***
+I'm also working through the basic rails guides to get an idea of all the new stuff in rails 8.  
+Hopefully I'll learn a lot.
